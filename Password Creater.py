@@ -3,7 +3,7 @@ import random
 import string
 
 # Welcome message to the user
-print("Hello, Welcome to Password Generator by Kavi")
+print("Hello, Welcome to Password Generator")
 
 # Ask the users for the length of the password
 length = int(input("Enter the length of the password: "))
